@@ -1,8 +1,3 @@
----
-title: "Sustainability Reporting Project"
-output: html_document
----
-
 ## Introduction
 
 In response to the urgent global need for sustainable energy solutions, **LEAP** (La Trobe Energy AI Analytics Platform) serves as a powerful foundation for the Sustainability Reporting Project. Leveraging artificial intelligence and advanced analytics, LEAP integrates diverse energy and environmental datasets ranging from smart meter feeds and solar generation logs to weather patterns and emission records to provide a holistic, data-driven view of energy performance.
