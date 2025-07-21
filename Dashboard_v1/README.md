@@ -1,6 +1,7 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+##Sustainability Dashboard
+
+This dashboard, built with **Business Intelligence (BI)**, is designed to help **LEAP** (La Trobe Energy AI Analytics Platform) make effective data-driven decisions and provide actionable insights on energy sustainability. It integrates and relates data from two key datasets — **UNISOLAR and UNICON** — which capture solar generation at various sites and energy consumption across La Trobe campuses in Australia, respectively. By analyzing patterns and trends from these datasets, the dashboard enables LEAP to monitor solar energy production, campus energy usage in real time, and take action to reduce energy consumption and make use of solar energy.
+
+
+
+
